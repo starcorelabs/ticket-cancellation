@@ -1,12 +1,12 @@
 # README
 
 ### What is this repository for?
-* HCCMIS Ticket Cancellation Redeemtion Site
+* HCCMIS Ticket Cancellation
 * Started: 2015-06-30 verion 0.1
 
 ### Technologies Used
 * We are using Bootstrap 3 and custom media queries.
-* The files are standard HTML5, CSS3, JavaScript, and jQuery.
+* The files are standard HTML5, CSS3, JavaScript, and PHP.
 * No special setup is required.
 
 ### Coding Guidelines
